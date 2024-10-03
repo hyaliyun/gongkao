@@ -2,7 +2,7 @@
 
 ## 思维导图
 
-![思维导图](../../assets/images/资料分析.png)
+![思维导图](/assets/images/资料分析.png)
 
 ## 解题技巧
 

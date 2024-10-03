@@ -2,4 +2,4 @@
 
 ## 思维导图
 
-![数字推理](../../assets/images/数字推理.png)
+![数字推理](/assets/images/数字推理.png)

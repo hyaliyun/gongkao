@@ -14,10 +14,10 @@ onMounted(load)
 
 <template>
 <section>
-  <h11>生活常识</h11>
+  <h11>生物常识</h11>
   <div class="image-container">
   <div class="image-wrapper">
-    <img src="/assets/images/生活常识.png" alt="生活常识" width="800" height="600">
+    <img src="/assets/images/生物常识.png" alt="生物常识" width="800" height="600">
   </div>
 </div>
 

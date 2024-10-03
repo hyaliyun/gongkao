@@ -2,7 +2,7 @@
 
 ## 思维导图
 
-![思维导图](../../assets/images/图形推理.png)
+![思维导图](/assets/images/图形推理.png)
 
 ## 常考题型
 

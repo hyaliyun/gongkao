@@ -2,7 +2,7 @@
 
 ## 思维导图
 
-![思维导图](../../assets/images/词义辨析.png)
+![思维导图](/assets/images/词义辨析.png)
 
 ## 解题思路
 
