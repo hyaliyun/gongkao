@@ -673,9 +673,9 @@
   integrity sha512-L2MCDD8l7yC62Te5UUyPVpmexhL9ipVnYRw9CsWfm/BGRL5FwDX4a25bcJ/OJSD3+Hx+k/a8LDKcG2AFdJV3BA==
 
 "@vue/theme@^2.2.12":
-  version "2.2.12"
-  resolved "https://registry.yarnpkg.com/@vue/theme/-/theme-2.2.12.tgz#4cc7e5a499afe3146e2e42ef747c97045e75d4e6"
-  integrity sha512-LR2cf3c6rKLW2UbDwPZ3cTsjdlI9RNl8WpU7T9tMKkzEfdKfkHf0aazv877iNLMqNvIVr9EY/8KdEAe8HRDcBQ==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@vue/theme/-/theme-2.3.0.tgz#ec782907bfca7971ed3d10781ec2caf22e46660e"
+  integrity sha512-eKd4ipY6i6P2XD2iRVgbxs936g7pesEY2AgNX24C/sjzcmCnm48J7uV8xKXI2du2qfA89/r5QQp7bqZVf2Tekw==
   dependencies:
     "@docsearch/css" "^3.6.0"
     "@docsearch/js" "^3.6.0"
