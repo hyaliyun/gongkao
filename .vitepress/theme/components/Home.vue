@@ -6,7 +6,6 @@ import { load, data, base } from './sponsors'
 import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
 import SVGLoaders from './SVGLoaders.vue'
-import google from './google.vue'
 import hero from './hero.vue'
 import features from './features.vue'
 import googleone from './googleone.vue'
@@ -713,8 +712,6 @@ onMounted(load)
 		</div>
     </div>
 </section>
-  <google />
-  <!-- <NewsLetter /> -->
 </template>
 
 <style scoped>
