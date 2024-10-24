@@ -6,7 +6,7 @@ import { load, data, base } from './sponsors'
 import SponsorsGroup from './SponsorsGroup.vue'
 import VueMasteryModal from './VueMasteryModal.vue'
 
-import google from './google.vue'
+
 
 onMounted(load)
 </script>
@@ -720,7 +720,7 @@ onMounted(load)
 		</div>
     </div>
 </section>
-  <google />
+
   <!-- <NewsLetter /> -->
 </template>
 
