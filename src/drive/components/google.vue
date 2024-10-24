@@ -5,10 +5,6 @@
 </template>
 
 <script>
-export default {
-  name: 'ExamCheer',
-
-}
 </script>
 
 <style scoped>
