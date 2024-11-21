@@ -8,14 +8,14 @@ import VueMasteryModal from './VueMasteryModal.vue'
 import SVGLoaders from './SVGLoaders.vue'
 import hero from './hero.vue'
 import features from './features.vue'
-import googleone from './googleone.vue'
+
 onMounted(load)
 </script>
 
 
 <template>
    <hero/>
-   <googleone/>
+
    <features/>
 
   <section ><div id="viewer">
